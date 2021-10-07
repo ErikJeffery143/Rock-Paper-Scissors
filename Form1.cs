@@ -186,7 +186,7 @@ namespace Rock__Paper__Scissors
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Close(); 
         }
     }
 }
